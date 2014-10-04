@@ -1,0 +1,185 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "satern693@gmail.com",
+    "longName": "Image",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/no_litter.png",
+                "name": "IMAGE_NO_LITTER",
+                "type": "png"
+            },
+            {
+                "file": "images/menu_screen.png",
+                "name": "IMAGE_MENU_SCREEN",
+                "type": "png"
+            },
+            {
+                "file": "images/background.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            },
+            {
+                "file": "images/level_1.png",
+                "name": "IMAGE_LEVEL_ONE",
+                "type": "png"
+            },
+            {
+                "file": "images/empty.png",
+                "name": "IMAGE_EMPTY",
+                "type": "png"
+            },
+            {
+                "file": "images/p1_stance.png",
+                "name": "IMAGE_PONE_STANCE",
+                "type": "png"
+            },
+            {
+                "file": "images/p1_kick.png",
+                "name": "IMAGE_PONE_KICK",
+                "type": "png"
+            },
+            {
+                "file": "images/p2_stance.png",
+                "name": "IMAGE_PTWO_STANCE",
+                "type": "png"
+            },
+            {
+                "file": "images/p2_kick.png",
+                "name": "IMAGE_PTWO_KICK",
+                "type": "png"
+            },
+            {
+                "file": "images/three.png",
+                "name": "IMAGE_FLAG_THREE",
+                "type": "png"
+            },
+            {
+                "file": "images/two.png",
+                "name": "IMAGE_FLAG_TWO",
+                "type": "png"
+            },
+            {
+                "file": "images/one.png",
+                "name": "IMAGE_FLAG_ONE",
+                "type": "png"
+            },
+            {
+                "file": "images/p2_flagged.png",
+                "name": "IMAGE_PTWO_FLAG",
+                "type": "png"
+            },
+            {
+                "file": "images/p1_flagged.png",
+                "name": "IMAGE_PONE_FLAG",
+                "type": "png"
+            },
+            {
+                "file": "images/nine.png",
+                "name": "IMAGE_NINE",
+                "type": "png"
+            },
+            {
+                "file": "images/eight.png",
+                "name": "IMAGE_EIGHT",
+                "type": "png"
+            },
+            {
+                "file": "images/seven.png",
+                "name": "IMAGE_SEVEN",
+                "type": "png"
+            },
+            {
+                "file": "images/six.png",
+                "name": "IMAGE_SIX",
+                "type": "png"
+            },
+            {
+                "file": "images/five.png",
+                "name": "IMAGE_FIVE",
+                "type": "png"
+            },
+            {
+                "file": "images/four.png",
+                "name": "IMAGE_FOUR",
+                "type": "png"
+            },
+            {
+                "file": "images/Tree.png",
+                "name": "IMAGE_THREE",
+                "type": "png"
+            },
+            {
+                "file": "images/too.png",
+                "name": "IMAGE_TWO",
+                "type": "png"
+            },
+            {
+                "file": "images/juan.png",
+                "name": "IMAGE_ONE",
+                "type": "png"
+            },
+            {
+                "file": "images/p1_dodge.png",
+                "name": "IMAGE_PONE_DODGE",
+                "type": "png"
+            },
+            {
+                "file": "images/p2_dodge.png",
+                "name": "IMAGE_PTWO_DODGE",
+                "type": "png"
+            },
+            {
+                "file": "images/p2_hit.png",
+                "name": "IMAGE_PTWO_HIT",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/p1_owned.png",
+                "name": "IMAGE_PONE_OWNED",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/p2_owned.png",
+                "name": "IMAGE_PTWO_OWNED",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/p1_owned_2.png",
+                "name": "IMAGE_PONE_OWNED_TWO",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/p2_owned_2.png",
+                "name": "IMAGE_PTWO_OWNED_TWO",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/p1_hitz.png",
+                "name": "IMAGE_PONE_HIT",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/you_loose.png",
+                "name": "IMAGE_YOU_LOOSE",
+                "type": "png"
+            },
+            {
+                "file": "images/you_won.png",
+                "name": "IMAGE_YOU_WON",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Mr.Game and Watch",
+    "uuid": "734fd208-58f0-4852-be56-f7446ac5cc59",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
